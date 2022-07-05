@@ -1,0 +1,18 @@
+body {
+    padding-top: 5rem;
+  }
+  .starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  .sidenav {
+    position: fixed;
+    width: 300px;
+    height: 100%;
+    margin-left: 20px;
+  }
+  #bottom-search{
+    padding-left: 1rem;
+    padding-bottom: 50px;
+  }
+
